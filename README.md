@@ -6,7 +6,8 @@ This repository holds the HyperFrames project for the Shipaton submission demo. 
 
 - HyperFrames CLI: pinned to `0.8.62` for repeatable preview and render commands.
 - Canvas: portrait `1080 × 1920`, matching Vibe Tycoon's mobile orientation.
-- Add captured, shipped game footage under `assets/device-footage/` and any documented, cleared audio under `assets/cleared-audio/`; see [VIDEO_PLAN.md](VIDEO_PLAN.md).
+- See [VIDEO_PLAN.md](VIDEO_PLAN.md) for the real-device capture plan and [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) for the human-editable script for the current silent preview.
+- Add captured, shipped game footage under `assets/device-footage/` and any documented, cleared audio under `assets/cleared-audio/`.
 - Keep the essential demo below 120 seconds; the shot plan targets 110 seconds.
 
 ## Commands
